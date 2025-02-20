@@ -1,16 +1,15 @@
 ### Hi there 👋
+I am a **Senior Software Engineer** and **IoT Solutions Expert** with over a decade of experience in **high-performance system design**, **mobile application development**, and **IoT product engineering**. My expertise lies in delivering **simple, efficient, and reliable** solutions to solve complex technical challenges.
 
-<!--
-**kevinma2010/kevinma2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Expertise
 
-Here are some ideas to get you started:
+- **Software Development**  
+  Proficient in **Go**, **Java**, and **React Native**, with a proven track record of developing robust applications and scalable service architectures.
+- **IoT Technology**  
+  Designed and implemented large-scale IoT ecosystems, enabling seamless integration and real-time communication for hundreds of thousands of devices.
+- **System Architecture**  
+  Architected highly concurrent, fault-tolerant distributed systems, supporting billions of API requests with exceptional reliability and scalability.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Philosophy
+
+Technology’s ultimate purpose is to **deliver value to users**. I am dedicated to transforming complex challenges into reliable, scalable solutions that prioritize stability, efficiency, and a seamless user experience.
